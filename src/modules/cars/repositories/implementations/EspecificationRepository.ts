@@ -1,8 +1,8 @@
-import { Especification } from '../model/Especification';
+import { Especification } from '../../model/Especification';
 import {
   ICreateEspecificationDTO,
   IEspecificationsRepository,
-} from './IEspecificationsRepository';
+} from '../IEspecificationsRepository';
 
 class EspecificationRepository implements IEspecificationsRepository {
   private especifications: Especification[];

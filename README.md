@@ -14,3 +14,5 @@ Utiliza interface para que o sistema não fique dependente
 de uma class especifica e sim com o "contrato"/interface
 
 O software deve conhecer sempre a absetração e numca a implementação
+
+Padrão de Projeto Singleton
